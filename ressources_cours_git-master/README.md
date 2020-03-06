@@ -20,3 +20,4 @@ Salut, moi c’est Arnaud, grand passionné de développement et de nouvelles te
 
 🎓 Vous souhaitez devenir développeur mais ne savez pas par où commencer? Comme moi, après une école d’informatique, vous vous êtes rendu compte que vos études étaient trop théoriques et pas suffisamment pratiques? Alors rejoignez moi sur:
 ➽ www.codeur-pro.fr
+je vous en merde
